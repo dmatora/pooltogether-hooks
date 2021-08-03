@@ -108,7 +108,7 @@ export default useInitializeOnboard
 const initOnboard = (subscriptions, walletConfig) => {
   const onboard = Onboard
 
-  const APP_NAME = 'PoolTogether'
+  const APP_NAME = 'Amnext'
   const {
     infuraId: INFURA_ID,
     fortmaticKey: FORTMATIC_KEY,
